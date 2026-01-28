@@ -1,0 +1,21 @@
+# secrets (do NOT upload)
+secrets.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env/
+
+# outputs & cache
+data_raw/
+outputs/
+*.csv
+*.png
+*.md
+
+# notebooks
+.ipynb_checkpoints/
